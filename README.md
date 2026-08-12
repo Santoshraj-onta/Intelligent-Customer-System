@@ -149,8 +149,7 @@ After running the project, you can access these pages:
 * 📋 **All Leads:**
   http://127.0.0.1:8000/all-leads/
 
-* 📈 **Source Analysis:**
-  http://127.0.0.1:8000/source-analysis/
+
 
 ---
 
